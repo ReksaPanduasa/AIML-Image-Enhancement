@@ -50,6 +50,8 @@ Inside the project's directory run:
 ```
 python image_enhancement.py
 ```
+For easier use by using Google Collaboratory
+
 You can find sample images in the Dataset folder and results can be generated in Results folder.
 
 These code works better for gray scale images.
